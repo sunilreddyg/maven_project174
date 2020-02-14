@@ -33,4 +33,10 @@ public class ClassA
   {  
 	  System.out.println("reg executed");
   }
+	
+  @Test
+  public void compose() 
+  {  
+	  System.out.println("compose executed");
+  }
 }
