@@ -21,4 +21,10 @@ public class ClassB
   {  
 	  System.out.println("tc006 executed");
   }
+  
+  @Test
+  public void signout()
+  {  
+	  System.out.println("Signout executed");
+  }
 }
