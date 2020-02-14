@@ -23,7 +23,7 @@ public class ClassB
   }
   
   @Test
-  public void signout()
+  public void signout_browser()
   {  
 	  System.out.println("Signout executed");
   }
